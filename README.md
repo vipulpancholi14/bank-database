@@ -1,2 +1,2 @@
 # bank-database
-bankdatabse in c++
+bankdatabse information in c++
