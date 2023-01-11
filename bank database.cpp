@@ -36,7 +36,9 @@ void account_query::read_data()
 	cout<<"Enter Balance: ";
 	cin>>total_Balance;
 	cout<<endl;
-	
+cout<<"Enter Balance: ";
+        cin>>total_Balance;
+        cout<<endl;
 }
 void account_query::show_data()
 {
